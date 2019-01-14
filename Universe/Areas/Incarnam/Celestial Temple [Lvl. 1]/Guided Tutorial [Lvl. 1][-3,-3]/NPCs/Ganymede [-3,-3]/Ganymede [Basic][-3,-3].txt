@@ -1,0 +1,21 @@
+{{Npc
+ |area=Celestial Temple
+ |loc=Incarnam
+ |coords=[-3,-3]
+ |details=Replaces [[Joris]], Gives [[Bunch of Keys]] in the [[Destiny Room]].
+ |options=[[{{PAGENAME}}#Talk|Talk]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]]. For the [[Server]] of the same name, see [[Ganymede (server)]].
+<br style="clear:both" />
+
+==Talk==
+{{dialog|text=Will you be the new guardian of the Dofus? Only time will tell.
+; Ask to leave the temple.
+}}
+
+==Quests==
+; Assigns
+* [[Start As You Mean to Go On]]
+* [[Defeat the Monster]]
+* [[The Ring of Living Dangerously]]
+* [[The Watchful Eyes of the Gods]]

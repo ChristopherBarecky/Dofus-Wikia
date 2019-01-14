@@ -1,0 +1,24 @@
+{{Questbox
+ |starting=Talk to [[Ganymede]] at [-3,-3]
+ |level=1
+ |prerequisites=[[Start As You Mean to Go On]]
+ |recommended=1
+ |rewards=Level-Based [[XP]]
+ |items=None
+ |sequel=None
+ |repeatable=No
+}}
+<br style="clear:both" />
+==Obtaining==
+During Step 11 of [[Start As You Mean to Go On]] you will talk to [[Ganymede]] at [-3,-3] in the [[Guided Tutorial]] area. This will initiate the quest.
+{{dialog|text=Well done! Equip the items you've earned, then head to the next map where you'll face a more formidable enemy!
+; Set off to challenge this new enemy.
+}}
+
+==Step 1: {{PAGENAME}}==
+; A battle that will put all your new skills to the test.
+{{queststep|Defeat 1 Celestial Gobball in a single fight}}
+: You will receive 10 XP.
+
+==Rewards==
+* Level-Based XP

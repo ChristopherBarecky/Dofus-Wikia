@@ -1,0 +1,61 @@
+{{Questbox
+ |starting=Talk to [[Ganymede]] at [-3,-3]
+ |level=1
+ |prerequisites=None
+ |recommended=1
+ |rewards=141 XP, 1 [[Courageous Ring]]
+ |items=None
+ |sequel=[[The Watchful Eyes of the Gods]]
+ |repeatable=No
+}}
+<br style="clear:both" />
+==Obtaining==
+Talk to [[Ganymede]] at [-3,-3] in [[Celestial Temple]] upon exiting the [[Guided Tutorial]].
+{{dialog|text=If you're going to be a hero, it's best to have divine power behind you! Before going any further, how about gaining the gods' favour?
+; Keep listening.
+
+The Twelve respect those who know how to fight and those who are able to create. Artists and artisans are highly appreciated. Why not show off your growing talents? Climb the stairs and speak to Master Attwerk, he's waiting for you in the Professions Hall.
+; Head over to the arch of the Professions Hall.
+}}
+
+==Step 1: The Ring of Living Dangerously==
+; You'll learn to harvest resources, then craft your very first item. Then you can begin your long career as a famous artisan.
+{{queststep|Enter the [[Professions Hall]]}}
+{{queststep|Talk to [[Master Attwerk]]}}
+{{dialog|text=Young soul, I salute you! I'm here to teach you the basics about professions. The greatest heroes are often great artisans, too. There is no finer blade than the one forged by your own hands!<br> There are many professions that will allow you to show off your skill. But I suppose we have to start somewhere so why not craft a ring?
+; Learn more.
+
+The gods taught the Twelvians to create magic jewellery with natural resources. Crafting the ring is easy as pie. Simply collect the necessary materials and then use the workshop to assemble them.
+; Find out more about the materials.
+
+You need some Wheat, Ash, Iron, Nettles, and a freshly caught Gudgeon. You'll find everything you need in this room.<br> Don't forget to consult your quest notebook if you forget what ingredients you need!
+; Explore the area.
+}}
+{{queststep|Harvest some [[Wheat]]}}
+{{queststep|Harvest some [[Nettle]]}}
+{{queststep|Cut some [[Ash]]}}
+{{queststep|Extract some [[Iron]]}}
+{{queststep|Fish for [[Gudgeon]]}}
+{{queststep|Craft 1 Courageous Ring and close the interface}}
+: You must click the Workshop to craft the [[Courageous Ring]].
+: You will receive 1 [[Courageous Ring]].
+{{queststep|Talk to Master Attwerk}}
+{{dialog|text = Good work, [Character Name]! Show the ring to Ganymede; he's waiting for you outside this room.
+; Head towards the exit.
+}}
+{{queststep|Talk to Ganymede again}}
+{{dialog|text = You're very talented, [Character Name]! The ring you've made is perfect. Now you're equipped from head to toe. To test your effectiveness, a training session is a must!
+; Say you have nothing against a bit of exercise.
+}}
+: You will start the quest, [[The Watchful Eyes of the Gods]].
+{{dialog|text = I've notified [[Master Tarms]], he's waiting for you in the [[Combat Room]]. Climb the stairs and show the gods what you can do!
+; Head over to the arch of the Combat Room.
+}}
+
+==Rewards==
+* 141 XP
+* 1 [[Courageous Ring]]
+
+==Related [[Achievement]]s==
+* [[All On Your Own]]
+* [[Adventure Time]]
