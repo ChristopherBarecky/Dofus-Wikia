@@ -3,9 +3,9 @@
  |level=1
  |prerequisites=[[Start As You Mean to Go On]]
  |recommended=1
- |rewards=Level-Based [[XP]]
+ |rewards=10 [[XP]]
  |items=None
- |sequel=None
+ |sequel=[[The Ring of Living Dangerously]]
  |repeatable=No
 }}
 <br style="clear:both" />
@@ -14,11 +14,16 @@ During Step 11 of [[Start As You Mean to Go On]] you will talk to [[Ganymede]] a
 {{dialog|text=Well done! Equip the items you've earned, then head to the next map where you'll face a more formidable enemy!
 ; Set off to challenge this new enemy.
 }}
+: You will enter a fight against 1 Level 1 [[Celestial Gobball]].
 
 ==Step 1: {{PAGENAME}}==
 ; A battle that will put all your new skills to the test.
 {{queststep|Defeat 1 Celestial Gobball in a single fight}}
 : You will receive 10 XP.
+: Once you complete Step 12, 13, and 14 of Start As You Mean to Go On, the quest will be finished. On Step 15, Ganymede will state the following:
+{{Dialog|text=A very promising start! Follow me, I'll take you to another part of the temple.
+; Follow Ganymede.
+}}
 
 ==Rewards==
-* Level-Based XP
+* 10 XP

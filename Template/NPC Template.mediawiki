@@ -1,0 +1,38 @@
+{{Npc
+ |area=
+ |loc=
+ |coords=[,]
+ |details=
+ |options=[[{{PAGENAME}}#Talk|Talk]], [[{{PAGENAME}}#Buy/Sell|Buy/Sell]], [[{{PAGENAME}}#Exchange|Exchange]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]].
+<br style="clear:both" />
+==Talk==
+{{dialog|text=NPCs text.
+; Dialogue options.
+NPCs response to selected option.
+}}
+
+==Buy/Sell==
+{|{{prettytable|sortable}}
+! Item !! Price ([[Kama]]s or other currency)
+|-
+| [[]] || x
+|}
+
+==[[Exchange]]==
+{|{{prettytable|sortable}}
+! Give !! To get
+|-
+| x [[]] || x [[]]
+|}
+
+==Quests==
+; Assigns
+* [[]]
+; Features in
+* [[]]
+
+==Other==
+; Grants access to
+* [[Dungeon]], in exchange for [[Key]]

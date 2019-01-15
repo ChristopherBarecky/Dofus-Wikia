@@ -3,7 +3,7 @@
  |level=1
  |prerequisites=None
  |recommended=1
- |rewards= Level-Based [[XP]], 1 [[Intrepid Set]]
+ |rewards= 10 [[XP]], 1 [[Intrepid Set]]
  |items=None
  |sequel=[[Defeat the Monster]]
  |repeatable=No
@@ -84,6 +84,7 @@ Upon character creation you will begin your journey at [-3,-3] in [[Guided Tutor
 ==Step 13: Defeat the Monster==
 ; To continue your quest, move to the next room and start a fight with the monster.
 {{queststep|Start a fight against a [[monster]]}}
+: You will enter a fight against 1 Level 1 [[Celestial Gobball]]. 
 : You will receive 1 [[Intrepid Hat]]
 
 ==Step 14: Finish the Fight==
@@ -100,5 +101,5 @@ Upon character creation you will begin your journey at [-3,-3] in [[Guided Tutor
 : You will receive 10 XP
 
 ==Rewards==
-* Level-Based XP
+* 10 XP
 * 1 [[Intrepid Set]]

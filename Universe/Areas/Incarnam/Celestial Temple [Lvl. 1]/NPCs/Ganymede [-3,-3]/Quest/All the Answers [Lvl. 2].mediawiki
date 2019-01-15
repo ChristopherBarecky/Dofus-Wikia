@@ -1,0 +1,49 @@
+{{Questbox
+ |starting=Talk to [[Ganymede]] at [-3,-3]
+ |level=2
+ |prerequisites=[[The Watchful Eyes of the Gods]]
+ |recommended=2
+ |rewards= Level-Based [[XP]], 6 [[Kama]]s, [[Bunch of Keys]]
+ |items=None
+ |sequel=None
+ |repeatable=No
+}}
+<br style="clear:both" />
+==Obtaining==
+Talk to [[Ganymede]] at [-3,-3] in the [[Destiny Room]].
+{{dialog|text=Those who want to fulfil their destiny must know who they really are. You must ask yourself three questions. Who are you? What do you want? Where will you go? You will find the answers in this room.
+; Search for answers.
+}}
+
+==Step 1: Position Yourself on the Map==
+; Before leaving the celestial temple, take some time to contemplate the Dofus and the World of Twelve... and don't forget to honor your god as you pass!
+{{queststep|Find out more about your identity.}}
+: Click on the stone tablet in the Destiny Room.
+{{dialog|text=You are a desciple of the god [God Name].
+}}
+: Your class statue will be next to the stone tablet.
+{{queststep|Find out more about your objective.}}
+: Click on the stone Dofus in the Destiny Room.
+{{dialog|text=Your objective: find the 6 Primordial Dofus.
+}}
+{{queststep|Find out more about your destination.}}
+: Click on the tome in the Destiny Room
+{{dialog|text=Your destination: the lands of Incarnam, and then the World of Twelve!
+}}
+{{queststep|Talk to Ganymede again.}}
+{{dialog|text=Your training is complete. It's time for you to leave... When you exit the temple, you'll be in the land of Incarnam. Explore its every nook and cranny; talk to the inhabitants. Your first adventures await! When the time is right, you'll go through a magical portal to the world of Twelve.
+; Thank Ganymede for his help.
+Before you go, I have one final gift for you. Take this magic bunch of keys, it will open dungeon doors for you. These dark places are home to incredible creatures, and maybe the Dofus, who can say?
+; Take the Bunch of Keys.
+Good luck [Character Name]! May the gods watch over you and your destiny be fulfilled!
+; Leave the Celestial Temple.
+}}
+: You will be moved to [-2,-3], the entrance of the Celestial Temple in the [[Way of Souls]].
+
+==Rewards==
+* Level-Based [[XP]]
+* 6 [[Kama]]s
+* [[Bunch of Keys]]
+
+==Related [[Achievement]]s==
+* [[Adventure Time]]

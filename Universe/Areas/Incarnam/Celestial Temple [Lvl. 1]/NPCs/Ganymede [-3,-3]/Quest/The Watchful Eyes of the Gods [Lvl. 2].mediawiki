@@ -1,0 +1,50 @@
+{{questbox
+ |starting=Talk to [[Ganymede]] at [-3,-3]
+ |level=2
+ |prerequisites=[[The Ring of Living Dangerously]]
+ |recommended=2
+ |rewards=141 [[XP]]
+ |items=None
+ |sequel=[[All the Answers]]
+ |repeatable=No
+}}
+<br style="clear:both" />
+==Obtaining==
+Talk to [[Ganymede]] at [-3,-3], in [[Celestial Temple]].
+{{queststep|Talk to Ganymede again}}
+{{dialog|text = You are very talented, [Character Name]! The ring you've made is perfect. Now you're equipped from head to toe. To test your effectiveness, a training session is a must!
+; Say you have nothing against a bit of exercise.
+I've notified [[Master Tarms]], he's waiting for you in the [[Combat Room]]. Climb the stairs and show the gods what you can do!
+; Head over to the arch of the Combat Room.
+}}
+
+==Step 1: The Watchful Eyes of the Gods==
+; They say true worth doesn't depend on age. The Gods have been keeping an eye on you - you'll surely give them something to watch when you take on Master Tarms's creatures.
+{{queststep|Enter the combat room.}}
+{{queststep|Talk to Master Tarms}}
+{{dialog|text=You're [Character Name], aren't you? I've been expecting you. Know that the gods are watching us... Are you brave enough to fight the horrible Spirtabbys?
+; Reply that you're ready to prove your worth.
+
+During your future adventures, you will often have to face several enemies at once. To complete your training, fight a Tigrimas and an Acrocat. Don't get taken in by their cute kitty looks, as their spirit fires could burn you.
+; Approach one of the creatures to provoke it.
+}}
+{{queststep|Defeat 1 Celestial Acrocat in a single fight.}}
+{{queststep|Defeat 1 Celestial Tigrimas in a single fight.}}
+: Click on [[Celestial Tigrimas]] or [[Celestial Acrocat]].
+{{dialog|text=*calls an Acrocat for backup* or *calls a Tigrimas for assistance*
+; Start fighting the two monsters.
+}}
+{{queststep|Talk to Master Tarms again.}}
+{{dialog|text=You've made it through the last fight! Go and announce your victory to Ganymede. He'll be glad to congratulate you!
+; Head towards the exit.
+}}
+{{queststep|Talk to Ganymede again}}
+{{dialog|text=I understand you handled yourself very well. Well done, [Character Name]! I never doubted you, of course.<br> Before you leave the temple to explore Incarnam, we must talk about the quest for the Dofus. Come with me downstairs, I will take you to the Destiny Room.
+; Go down the stairs.}}
+: You will be automatically moved to the [[Destiny Room]].
+
+==Rewards==
+* 141 [[XP]]
+
+==Related [[Achievement]]s==
+* [[Adventure Time]]
