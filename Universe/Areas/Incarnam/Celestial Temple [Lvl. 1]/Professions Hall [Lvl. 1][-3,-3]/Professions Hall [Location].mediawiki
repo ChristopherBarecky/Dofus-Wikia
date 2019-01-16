@@ -1,0 +1,14 @@
+{{area||superarea=Incarnam|parent=Celestial Temple}}
+
+=={{PAGENAME}}==
+{{PAGENAME}} is a subarea of the [[Celestial Temple]].
+
+==Access==
+* Entrance: 
+* [[Ganymede]]: Upon starting [[The Ring of the Living]] at [-3,-3]
+
+==[[Quest]]s==
+{{questlist}}
+
+==[[NPC]]s==
+{{npclist}}

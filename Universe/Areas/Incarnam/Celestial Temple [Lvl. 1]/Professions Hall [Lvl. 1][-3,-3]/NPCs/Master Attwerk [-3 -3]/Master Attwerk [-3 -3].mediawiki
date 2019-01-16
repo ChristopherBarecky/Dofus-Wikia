@@ -1,0 +1,17 @@
+{{Npc
+ |area=Incarnam
+ |loc=Celestial Temple
+ |coords=[-3,-3]
+ |details=Inside the [[Professions Hall]]
+ |options=[[{{PAGENAME}}#Talk|Talk]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]]. Formerly known as ''Master Hoboulo''.
+<br style="clear:both" />
+==Talk==
+{{dialog|text=Good work, [Character Name]! Show the ring to Ganymede; he's waiting for you outside this room.
+; Head towards the exit.
+}}
+
+==Quests==
+; Features in
+* [[The Ring of Living Dangerously]]

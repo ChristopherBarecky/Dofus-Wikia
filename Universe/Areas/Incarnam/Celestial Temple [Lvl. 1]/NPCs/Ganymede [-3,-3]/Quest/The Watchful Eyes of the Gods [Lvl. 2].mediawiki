@@ -30,7 +30,7 @@ During your future adventures, you will often have to face several enemies at on
 }}
 {{queststep|Defeat 1 Celestial Acrocat in a single fight.}}
 {{queststep|Defeat 1 Celestial Tigrimas in a single fight.}}
-: Click on [[Celestial Tigrimas]] or [[Celestial Acrocat]].
+:* Click on [[Celestial Tigrimas]] or [[Celestial Acrocat]].
 {{dialog|text=*calls an Acrocat for backup* or *calls a Tigrimas for assistance*
 ; Start fighting the two monsters.
 }}
@@ -41,7 +41,7 @@ During your future adventures, you will often have to face several enemies at on
 {{queststep|Talk to Ganymede again}}
 {{dialog|text=I understand you handled yourself very well. Well done, [Character Name]! I never doubted you, of course.<br> Before you leave the temple to explore Incarnam, we must talk about the quest for the Dofus. Come with me downstairs, I will take you to the Destiny Room.
 ; Go down the stairs.}}
-: You will be automatically moved to the [[Destiny Room]].
+:* You will be automatically moved to the [[Destiny Room]].
 
 ==Rewards==
 * 141 [[XP]]

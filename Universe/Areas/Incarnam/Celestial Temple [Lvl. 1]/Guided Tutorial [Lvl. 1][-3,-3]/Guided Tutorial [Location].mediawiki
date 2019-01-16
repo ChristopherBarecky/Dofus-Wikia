@@ -1,0 +1,20 @@
+{{area|superarea=Incarnam|parent=Celestial Temple}}
+
+=={{PAGENAME}}==
+{{PAGENAME}} is a subarea of the [[Celestial Temple]]
+
+==Alliance==
+{{PAGENAME}} is not an [[Alliance]] territory.
+
+==Access==
+* Entrance: 
+* Automatic
+
+==[[Quest]]s==
+{{questlist}}
+
+==[[Monster]]s==
+{{monsterlist}}
+
+==[[NPC]]s==
+{{npclistsub}}

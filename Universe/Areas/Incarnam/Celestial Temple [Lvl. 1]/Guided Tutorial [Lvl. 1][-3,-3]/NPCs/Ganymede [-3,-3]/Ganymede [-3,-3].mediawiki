@@ -5,9 +5,8 @@
  |details=Replaces [[Joris]], Gives [[Bunch of Keys]] in the [[Destiny Room]].
  |options=[[{{PAGENAME}}#Talk|Talk]]
 }}
-'''{{PAGENAME}}''' is an [[NPC]]. For the [[Server]] of the same name, see [[Ganymede (server)]].
+'''{{PAGENAME}}''' is an [[NPC]]. {{PAGENAME}} is also found in the [[Guided Tutorial]] area. For the [[Server]] of the same name, see [[Ganymede (server)]].
 <br style="clear:both" />
-
 ==Talk==
 {{dialog|text=Will you be the new guardian of the Dofus? Only time will tell.
 ; Ask to leave the temple.
@@ -19,3 +18,4 @@
 * [[Defeat the Monster]]
 * [[The Ring of Living Dangerously]]
 * [[The Watchful Eyes of the Gods]]
+* [[All the Answers]]

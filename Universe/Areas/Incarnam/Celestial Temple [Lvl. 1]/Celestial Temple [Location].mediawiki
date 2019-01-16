@@ -1,0 +1,26 @@
+{{area|superarea=Incarnam|parent=Incarnam}}
+
+=={{PAGENAME}}==
+{{PAGENAME}} is a subarea of [[Incarnam]].
+
+For the class buildings of a similar name, see [[Class Temple]].
+
+==Alliance==
+{{PAGENAME}} is not an [[Alliance]] territory.
+
+==Access==
+* Entrance:
+* Granted upon completing [[Guided Tutorial]].
+* [[Way of Souls]]: [-2,-3]
+
+==[[Subarea]]s==
+{{subarealist}}
+
+==[[Quest]]s==
+{{questlist}}
+
+==[[Monster]]s==
+{{monsterlist}}
+
+==[[NPC]]s==
+{{npclistsub}}

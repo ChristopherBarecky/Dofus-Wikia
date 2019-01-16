@@ -1,0 +1,15 @@
+{{area|superarea=Incarnam|parent=Celestial Temple}}
+
+=={{PAGENAME}}==
+{{PAGENAME}} is a subarea of [[Celestial Temple]].
+
+==Access==
+* Entrance: 
+* [[Way of Souls]]: [-2,-3]
+* [[Ganymede]]: Upon completing [[The Watchful Eyes of the Gods]] at [-3,-3]
+
+==[[Quest]]s==
+{{questlist}}
+
+==[[NPC]]s==
+{{npclist}}

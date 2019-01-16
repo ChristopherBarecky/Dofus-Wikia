@@ -1,0 +1,17 @@
+{{Npc
+ |area=Incarnam
+ |loc=Celestial Temple
+ |coords=[-3,-3]
+ |details=Inside the [[Combat Room]]
+ |options=[[{{PAGENAME}}#Talk|Talk]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]].
+<br style="clear:both" />
+==Talk==
+{{dialog|text=The World of Twelve can be a perilous place, you need to know how to fight to survive.
+; Close the dialogue.
+}}
+
+==Quests==
+; Features in
+* [[The Watchful Eyes of the Gods]]

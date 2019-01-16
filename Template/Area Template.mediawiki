@@ -1,0 +1,26 @@
+{{area||superarea=|parent=}}
+
+=={{PAGENAME}}==
+{{PAGENAME}} is an area|subarea of [[]].
+
+==Access==
+* Entrance: 
+* [[Zaap]]: [,]
+* [[Imp Carrier]]: [,]
+* [[Boat]] traveling between [[]] at [,] & [[]] at [,]
+* [[NPC]]: Upon accepting|starting|completing [[]] at [,]
+
+==Subareas==
+{{subarealist}}
+
+==[[Dungeon]]s==
+{{dungeonlist}}
+
+==[[Quest]]s==
+{{questlist}}
+
+==[[Monster]]s==
+{{monsterlist}}
+
+==[[NPC]]s==
+{{npclist}}

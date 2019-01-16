@@ -3,7 +3,7 @@
  |level=1
  |prerequisites=None
  |recommended=1
- |rewards= 10 [[XP]], 1 [[Intrepid Set]]
+ |rewards= 80 [[XP]], 1 [[Intrepid Set]]
  |items=None
  |sequel=[[Defeat the Monster]]
  |repeatable=No
@@ -17,7 +17,7 @@ Upon character creation you will begin your journey at [-3,-3] in [[Guided Tutor
 ==Step 1: Position Yourself on the Map==
 ; Welcome to the guided tutorial. To position your character, left-click on the spaces around it. If you click a space some distance from your character, it will run, otherwise it will walk.
 {{queststep|Left-click the spaces around your character to move them}}
-: You will receive 10 XP.
+:* You will receive 10 XP.
 
 ==Step 2: Speak to a Character==
 ; Click on [[Ganymede]].
@@ -25,47 +25,47 @@ Upon character creation you will begin your journey at [-3,-3] in [[Guided Tutor
 {{dialog|text=Welcome to Incarnam! How would you like to take a very short class to teach you the basics of life as an adventurer?
 ; Continue your apprenticeship.
 }}
-: You will receive 1 [[Intrepid Ring]].
+:* You will receive 1 [[Intrepid Ring]].
 
 ==Step 3: Equip an Item==
 ; Open the inventory. Move the ring to the ring slot. You can also equip it by double-clicking on the ring.
 {{queststep|Equip an item}}
-: You will receive 15<!-- Incorrectly states 16 XP in the "Rewards" section of the Quest screen.--> XP.
+:* You will receive 15<!-- Incorrectly states 16 XP in the "Rewards" section of the Quest screen.--> XP.
 
 ==Step 4: Change Maps==
 ; To change maps, move your cursor to the edge of the screen and left-click when the arrow appears.
 {{queststep|Find the map: Celestial Globe Platform}}
-: You will receive 10 XP.
+:* You will receive 10 XP.
 
 ==Step 5: Start a Fight==
 ; Left-click on the [[Celestial Globe]] to start a fight.
 {{queststep|Learn how to fight}}
-: You will receive 5 XP.
+:* You will receive 5 XP.
 
 ==Step 6: Choose Your Starting Position==
 ; Left-click on a red cell to choose your starting position and then click on the Ready button to start the fight.
 {{queststep|Choose your starting position}}
-: You will receive 1 [[Intrepid Boots]].
+:* You will receive 1 [[Intrepid Boots]].
 
 ==Step 7: Position Yourself During a Fight==
 ; Your character uses [[Movement Point]]s (MP) to move. Moving 1 cell costs 1 MP. Move your character by left-clicking on a cell. You get your MP back<!-- Gramatical Error states your "MPback". --> at the start of your next turn.
 {{queststep|Learn how to move in a fight}}
-: You will receive 1 [[Exuberant Sword]].
+:* You will receive 1 [[Exuberant Sword]].
 
 ==Step 8: Use a Spell==
 ; Select a [[spell]] and then click on the target. The Range of the spell is indicated by blue cells. Spells require [[Action Point]]s (AP) to be cast. You'll get them back at the start of your next turn.
 {{queststep|Cast a spell.}}
-: You will receive 1 [[Intrepid Shield]].
+:* You will receive 1 [[Intrepid Shield]].
 
 ==Step 9: End of Turn==
 ; When you've finished your turn, click on the End of Turn button to speed up the fight and regain your AP and your MP.
 {{queststep|End your turn if necessary}}
-: You will receive 1 [[Intrepid Belt]].
+:* You will receive 1 [[Intrepid Belt]].
 
 ==Step 10: Win the Fight==
 ; Continue attacking your target to win the fight. End your turn using the End of Turn button in order to regain your AP and MP.
 {{queststep|Defeat 1 Celestial Globe in a single fight}}
-: You will receive 1 [[Intrepid Amulet]].
+:* You will receive 1 [[Intrepid Amulet]].
 
 ==Step 11: Start a Quest==
 ; Talk to Ganymede to start a quest. NPCs who have quests for you will have an exclamation mark above their heads.
@@ -73,24 +73,24 @@ Upon character creation you will begin your journey at [-3,-3] in [[Guided Tutor
 {{dialog|text=Well done! Equip the items you've earned, then head to the next map where you'll face a more formidable enemy!
 ; Set off to challenge this new enemy.
 }}
-: You will start the quest [[Defeat the Monster]].
-: You will receive 1 [[Intrepid Cloak]].
+:* You will start the quest [[Defeat the Monster]].
+:* You will receive 1 [[Intrepid Cloak]].
 
 ==Step 12: Equip Your Items==
 ; Open the inventory and equip the items you have won. Wearing multiple items in a single set will give your character additional bonuses.
 {{queststep|Equip your character with earned items}}
-: You will receive 10 XP.
+:* You will receive 10 XP.
 
 ==Step 13: Defeat the Monster==
 ; To continue your quest, move to the next room and start a fight with the monster.
 {{queststep|Start a fight against a [[monster]]}}
-: You will enter a fight against 1 Level 1 [[Celestial Gobball]]. 
-: You will receive 1 [[Intrepid Hat]]
+:* You will enter a fight against 1 Level 1 [[Celestial Gobball]]. 
+:* You will receive 1 [[Intrepid Hat]]
 
 ==Step 14: Finish the Fight==
 ; Win the fight Turns now have a limited duration, so be careful. The remaining time gauge shows how much time you have left before your turn ends.
 {{queststep|Win the Fight against the Celestial Gobball}}
-: You will receive 10 XP
+:* You will receive 10 XP
 
 ==Step 15: Finish Your Training==
 ; Talk to Ganymede to complete your quest. NPCs who can validate quest objectives have a question mark above their heads.
@@ -98,8 +98,8 @@ Upon character creation you will begin your journey at [-3,-3] in [[Guided Tutor
 {{dialog|text=A very promising start! Follow me, I'll take you to another part of the temple.
 ; Follow Ganymede.
 }}
-: You will receive 10 XP
+:* You will receive 10 XP
 
 ==Rewards==
-* 10 XP
+* 80 XP (10 XP from Completion, 70 XP from Quest Steps)
 * 1 [[Intrepid Set]]
