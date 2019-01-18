@@ -25,6 +25,20 @@ During Step 11 of [[Start As You Mean to Go On]] you will talk to [[Ganymede]] a
 ; Follow Ganymede.
 }}
 :* You will be transported out of the [[Guided Tutorial]].
+<!--:* Clarification text, if needed, such as:-->
+<!--:* Click on x at [,].-->
+<!--:* You will enter a fight against x Level xx [[Monster]].-->
+<!--:* Other characters can/cannot join the fight.-->
+<!--:* You will drop x [[Item]].-->
+<!--:* You will receive x [[Item]].-->
+<!--:* You will lose x [[Item]].-->
+<!--:* You must complete or have completed the quest [[Quest]] to be able to talk to it.-->
+<!--:* You will receive x XP.-->
+<!--:* You will be transported to [[]].-->
+<!--:* You will lose access to [[]].-->
 
 ==Rewards==
-* 10 XP
+* 10 [[XP]]
+
+<!--==Related [[Achievement]]s==
+* -->

@@ -1,0 +1,22 @@
+{{Npc
+ |area=Incarnam
+ |loc=Fields
+ |coords=[-1,-4]
+ |details=
+ |options=[[{{PAGENAME}}#Talk|Talk]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]].
+<br style="clear:both" />
+==Talk==
+{{dialog|text=With all these new, starving souls disembarking every day, I need to knead, constantly
+; Find out about the profession.
+I till the earth to grow cereals and I'm also a baker. I also like to make treats in my spare time. I like to give out homemade sweets when the children are well-behaved. So, as you can see, I am very busy!
+; Ask how to process grains and bake bread.
+Bread is a staple food for many adventurers. It's made from grain and other ingredients that alter its texture and flavour. You need an oven to bake and most workshops usually have one available.<br>
+THe peasants also use millstones to create flour from cereals harvested from the fields.
+; Say thank you for this information.
+}}
+
+==Quests==
+; Features in
+* [[Secret Pancake]]

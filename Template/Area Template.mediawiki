@@ -1,26 +1,29 @@
-{{area||superarea=|parent=}}
+{{area}}
+<!--The {{area}} tag will always default to Amaknean Continent. Any area that is not part of the Amaknean Continent need to be tagged with {{area|superarea=}} to appear properly. Example: Incarnam, Divine Dimensions, etc.-->
 
 =={{PAGENAME}}==
-{{PAGENAME}} is an area|subarea of [[]].
+{{PAGENAME}} is an area of the [[]].
 
 ==Access==
-* Entrance: 
-* [[Zaap]]: [,]
-* [[Imp Carrier]]: [,]
-* [[Boat]] traveling between [[]] at [,] & [[]] at [,]
-* [[NPC]]: Upon accepting|starting|completing [[]] at [,]
+* Entrance:
+<!--* [[Zaap]]: [,]-->
+<!--* [[Imp Carrier]]: [,]-->
+<!--* [[Boat]] traveling between [[]] at [,] & [[]] at [,]-->
+<!--* [[NPC]]: Upon [accepting|starting|completing] [[]] at [,]-->
+<!--* Adjacent [[Area]]s or [[Subarea]]s: [,]-->
 
-==Subareas==
-{{subarealist}}
+<!--Place comment brackets around any lists that do not apply so in the future it can be added.-->
+<!--==[[Subarea]]s==
+{{subarealist}}-->
 
-==[[Dungeon]]s==
-{{dungeonlist}}
+<!--==[[Dungeon]]s==
+{{dungeonlist}}-->
 
-==[[Quest]]s==
-{{questlist}}
+<!--==[[Quest]]s==
+{{questlist}}-->
 
-==[[Monster]]s==
-{{monsterlist}}
+<!--==[[Monster]]s==
+{{monsterlist}}-->
 
-==[[NPC]]s==
-{{npclist}}
+<!--==[[NPC]]s==
+{{npclist}}-->

@@ -1,0 +1,23 @@
+{{Npc
+ |area=Incarnam
+ |loc=Way of Souls
+ |coords=[-1,-3]
+ |details=Next to [[Incarnam Zaap (Way of Souls)]]
+ |options=[[Ternette Nhin#Talk|Talk]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]].
+<br style="clear:both" />
+==Talk==
+{{dialog|text=Isn't it  a lovely day? The sun is shining, the piwis are chirping, and young souls are discovering Incarnam.
+; (Close this dialogue)}}
+
+==Quests==
+; Assigns
+* [[Bird's-eye]]
+* [[Uncommon Transport]]
+* [[Vestiges of Legends]]
+; Features in
+* [[Village in the Clouds]]
+
+==Trivia==
+Ternette is the Mayor of Incarnam

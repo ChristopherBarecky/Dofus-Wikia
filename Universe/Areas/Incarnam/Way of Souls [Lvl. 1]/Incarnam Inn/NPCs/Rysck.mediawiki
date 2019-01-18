@@ -1,0 +1,18 @@
+{{Npc
+|area=Incarnam
+|loc=Incarnam Inn
+|coords=[0,-3]
+|details=Inside [[Incarnam Inn]]
+|options=[[{{PAGENAME}}#Talk|Talk]]
+}}'''{{PAGENAME}}''' is an [[NPC]].
+<br style="clear:both" />
+==Talk==
+{{dialog|text=The sound of a violin, the taste of Mimilk, the scent of varnished wood... that's what gives this place its charm, I feel at home here!
+; Learn more.
+I spent some time in the World of Twelve, but I ended up back here. A life of adventures was not for me. I prefer playing cards while listening to El Tonjon.
+; (Close this dialogue)
+}}
+
+==Quests==
+; Features in
+* [[Hope and Tragedy]]

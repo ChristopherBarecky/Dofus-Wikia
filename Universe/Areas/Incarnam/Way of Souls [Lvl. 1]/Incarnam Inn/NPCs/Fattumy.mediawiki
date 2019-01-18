@@ -1,0 +1,33 @@
+{{Npc
+ |area=Incarnam
+ |loc=Incarnam Inn
+ |coords=[0,-3]
+ |details=Inside [[Incarnam Inn]]
+ |options=[[{{PAGENAME}}#Talk|Talk]], [[{{PAGENAME}}#Buy|Buy]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]]. Formerly known as ''Fattumy the Kerub Veteran''.
+<br style="clear:both" />
+==Talk==
+{{dialog|text=Welcome, adventurer! If you're looking to wet your whistle, you're in the right place!
+; Ask for a drink!
+I have lemonade or Mimilk. What will it be?
+; Order a lemonade for 1 kama.
+; Take an ice cold mimilk for 4 kamas.
+}}
+
+==Buy==
+{|{{prettytable|sortable}}
+! Item !! Price
+|-
+| [[Incarnam Lemonade]] || 1 [[Kama]]
+|-
+| [[Mimilk]] || 4 [[Kama]]s
+|}
+
+==Quests==
+; Featured in
+* [[Death to the Rat!]]
+* [[Village in the Clouds]]
+
+==Trivia==
+Fattumy has a fat tummy, therefore his name is Fattumy

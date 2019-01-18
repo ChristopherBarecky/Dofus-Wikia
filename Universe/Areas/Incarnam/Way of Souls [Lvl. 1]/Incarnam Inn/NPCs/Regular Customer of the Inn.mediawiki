@@ -1,0 +1,13 @@
+{{Npc
+ |area=Incarnam
+ |loc=Incarnam Inn
+ |coords=[0,-3]
+ |details=Inside [[Incarnam Inn]]
+ |options=[[{{PAGENAME}}#Talk|Talk]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]].
+<br style="clear:both" />
+==Talk==
+{{dialog|text=Young people are always in such a rush! They don't know how to appreciate the calmer things in life. A glass of lemonade, a few friends, a pretty waitress... no better way to spend your days.
+; (Close this dialogue)
+}}

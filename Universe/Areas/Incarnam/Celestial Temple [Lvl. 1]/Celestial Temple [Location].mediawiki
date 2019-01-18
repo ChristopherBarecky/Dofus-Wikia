@@ -6,15 +6,27 @@
 For the class buildings of a similar name, see [[Class Temple]].
 
 ==Alliance==
+<!--(if the subarea is an alliance territory)-->
+<!--{{PAGENAME}} is an [[Alliance]] territory (needs an [[Alliance Prism]]).-->
+
+<!--(if the subarea is not an alliance territory)-->
 {{PAGENAME}} is not an [[Alliance]] territory.
 
 ==Access==
 * Entrance:
-* Granted upon completing [[Guided Tutorial]].
 * [[Way of Souls]]: [-2,-3]
-
+* Access granted upon completing [[Start As You Mean to Go On]] and [[Defeat the Monster]] in the [[Guided Tutorial]] area.
+<!--* [[Zaap]]: [,]-->
+<!--* [[Imp Carrier]]: [,]-->
+<!--* [[Boat]] traveling between [[]] at [,] & [[]] at [,]-->
+<!--* [[NPC]]: Upon [accepting|starting|completing] [[]] at [,]-->
+<!--* Adjacent [[Area]]s or [[Subarea]]s: [,]-->
+<!-- Place comment brackets around any lists that do not apply so in the future it can be added.-->
 ==[[Subarea]]s==
 {{subarealist}}
+
+<!--==[[Dungeon]]s==
+{{dungeonlist}}-->
 
 ==[[Quest]]s==
 {{questlist}}
@@ -24,3 +36,63 @@ For the class buildings of a similar name, see [[Class Temple]].
 
 ==[[NPC]]s==
 {{npclistsub}}
+
+==Special Places==
+<!--; Markets-->
+<!--* Alchemist: [,]-->
+<!--* Artificer: [,]-->
+<!--* Carver: [,]-->
+<!--* Fairyworks: [,]-->
+<!--* Farmer: [,]-->
+<!--* Fisherman: [,]-->
+<!--* Handyman: [,]-->
+<!--* Hunter: [,]-->
+<!--* Jeweller: [,]-->
+<!--* Krosmaster: [,]-->
+<!--* Lumberjack: [,]-->
+<!--* Miner: [,]-->
+<!--* Pet: [,]-->
+<!--* [[Resource]]: [,]-->
+<!--* Rune: [,]-->
+<!--* Scroll: [,]-->
+<!--* Shoemaker: [,]-->
+<!--* Smith: [,]-->
+<!--* Soul Stone: [,]-->
+<!--* Tailor: [,]-->
+<!--* Tied Scroll: [,]-->
+
+; Workshops
+<!--* [[Alchemist]]: [,]-->
+<!--* [[Artificer]]: [,]-->
+<!--* [[Carver]]: [,]-->
+<!--* [[Farmer]]: [,]-->
+<!--* [[Fisherman]]: [,]-->
+<!--* [[Handyman]]: [,]-->
+<!--* [[Hunter]]: [,]-->
+* [[Jeweller]]:
+:* [[Combat Room]]: [-3,-3]
+<!--* [[Lumberjack]]: [,]-->
+<!--* [[Miner]]: [,]-->
+<!--* [[Shoemaker]]: [,]-->
+<!--* [[Smith]]: [,]-->
+<!--* [[Tailor]]: [,]-->
+
+; Gathering Spots
+* [[Alchemist]]: 
+:* [[Nettles]]: [-3,-3]
+* [[Farmer]]:
+:* [[Wheat]]: [-3,-3]
+* [[Fisherman]]:
+:* [[Gudgeon]]: [-3,-3]
+<!--* [[Hunter]]: [[]], [[]]-->
+<!--:* [[Resource]]: [,], [,]-->
+* [[Lumberjack]]:
+:* [[Ash Wood]]: [-3,-3]
+* [[Miner]]:
+:* [[Iron]]: [-3,-3]
+
+<!--===[[Emotes]]===
+* [[]]: [,]-->
+
+<!--===Miscellaneous===-->
+<!--* [[Well]]: [,]-->

@@ -3,7 +3,7 @@
  |level=2
  |prerequisites=[[The Watchful Eyes of the Gods]]
  |recommended=2
- |rewards= Level-Based [[XP]], 6 [[Kama]]s, [[Bunch of Keys]]
+ |rewards= 141 [[XP]], 6 [[Kama]]s, [[Bunch of Keys]]
  |items=None
  |sequel=None
  |repeatable=No
@@ -18,16 +18,16 @@ Talk to [[Ganymede]] at [-3,-3] in the [[Destiny Room]].
 ==Step 1: Position Yourself on the Map==
 ; Before leaving the celestial temple, take some time to contemplate the Dofus and the World of Twelve... and don't forget to honor your god as you pass!
 {{queststep|Find out more about your identity.}}
-:* Click on the stone tablet in the Destiny Room.
+:* Click on the stone [[Stone Tablet|tablet]] in the Destiny Room.
 {{dialog|text=You are a desciple of the god [God Name].
 }}
 :* Your class statue will be next to the stone tablet.
 {{queststep|Find out more about your objective.}}
-:* Click on the stone Dofus in the Destiny Room.
+:* Click on the stone [[Stone Dofus|Dofus]] in the Destiny Room.
 {{dialog|text=Your objective: find the 6 Primordial Dofus.
 }}
 {{queststep|Find out more about your destination.}}
-:* Click on the tome in the Destiny Room
+:* Click on the [[Tome|tome]] in the Destiny Room
 {{dialog|text=Your destination: the lands of Incarnam, and then the World of Twelve!
 }}
 {{queststep|Talk to Ganymede again.}}
@@ -38,10 +38,10 @@ Before you go, I have one final gift for you. Take this magic bunch of keys, it 
 Good luck [Character Name]! May the gods watch over you and your destiny be fulfilled!
 ; Leave the Celestial Temple.
 }}
-:* You will be moved to [-2,-3], the entrance of the Celestial Temple in the [[Way of Souls]].
+:* You will be transported to [-2,-3], the entrance of the Celestial Temple in the [[Way of Souls]].
 
 ==Rewards==
-* Level-Based [[XP]]
+* 141 [[XP]]
 * 6 [[Kama]]s
 * [[Bunch of Keys]]
 

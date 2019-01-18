@@ -1,0 +1,13 @@
+{{Npc
+ |area=Incarnam
+ |loc=Incarnam Inn
+ |coords=[0,-3]
+ |details=Inside [[Incarnam Inn]]
+ |options=[[{{PAGENAME}}#Talk|Talk]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]].
+<br style="clear:both" />
+==Talk==
+{{dialog|text=Whether luck's on your side or not, as long as you keep smiling!
+; (Close this dialogue)
+}}

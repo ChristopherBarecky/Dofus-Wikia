@@ -3,7 +3,7 @@
  |level=1
  |prerequisites=None
  |recommended=1
- |rewards= 80 [[XP]], 1 [[Intrepid Set]]
+ |rewards=80 [[XP]], 1 [[Intrepid Set]]
  |items=None
  |sequel=[[Defeat the Monster]]
  |repeatable=No
@@ -18,6 +18,17 @@ Upon character creation you will begin your journey at [-3,-3] in [[Guided Tutor
 ; Welcome to the guided tutorial. To position your character, left-click on the spaces around it. If you click a space some distance from your character, it will run, otherwise it will walk.
 {{queststep|Left-click the spaces around your character to move them}}
 :* You will receive 10 XP.
+<!--:* Clarification text, if needed, such as:-->
+<!--:* Click on x at [,].-->
+<!--:* You will enter a fight against x Level xx [[Monster]].-->
+<!--:* Other characters can/cannot join the fight.-->
+<!--:* You will drop x [[Item]].-->
+<!--:* You will receive x [[Item]].-->
+<!--:* You will lose x [[Item]].-->
+<!--:* You must complete or have completed the quest [[Quest]] to be able to talk to it.-->
+<!--:* You will receive x XP.-->
+<!--:* You will be transported to [[]].-->
+<!--:* You will lose access to [[]].-->
 
 ==Step 2: Speak to a Character==
 ; Click on [[Ganymede]].
@@ -30,7 +41,7 @@ Upon character creation you will begin your journey at [-3,-3] in [[Guided Tutor
 ==Step 3: Equip an Item==
 ; Open the inventory. Move the ring to the ring slot. You can also equip it by double-clicking on the ring.
 {{queststep|Equip an item}}
-:* You will receive 15<!-- Incorrectly states 16 XP in the "Rewards" section of the Quest screen.--> XP.
+:* You will receive {{red|15}}<!-- Incorrectly states 16 XP in the "Rewards" section of the Quest screen.--> XP.
 
 ==Step 4: Change Maps==
 ; To change maps, move your cursor to the edge of the screen and left-click when the arrow appears.
@@ -101,5 +112,8 @@ Upon character creation you will begin your journey at [-3,-3] in [[Guided Tutor
 :* You will receive 10 XP
 
 ==Rewards==
-* 80 XP (10 XP from Completion, 70 XP from Quest Steps)
+* 80 [[XP]] (10 XP from Completion, 70 XP from Quest Steps)
 * 1 [[Intrepid Set]]
+
+<!--==Related [[Achievement]]s==
+* -->

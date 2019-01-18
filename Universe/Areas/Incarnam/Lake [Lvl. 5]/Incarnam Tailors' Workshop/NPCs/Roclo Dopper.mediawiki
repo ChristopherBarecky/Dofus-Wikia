@@ -1,0 +1,18 @@
+{{Npc
+|area=Incarnam
+|loc=Lake
+|coords=[0,-2]
+|details=Outside [[Incarnam Tailors' Workshop]] and [[Incarnam Shoemakers' Workshop]].
+|options=[[{{PAGENAME}}#Talk|Talk]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]].
+<br style="clear:both" />
+
+==Talk==
+{{dialog|text=They say that Shoemakers are always the worst shod. Twaddle! I am my biggest customer and my feet are perfectly protected. My boots give me heart and sole!
+; Find out more about the Shoemaker profession.
+Do you think adventurers would still be able to travel so far and wide without good shoes? And not to mention belts. How many red-faced heroes would be found with their pants down if a belt were to fail at a crucial moment? They certainly wouldn't be able to just turn the other cheek!
+; Ask how to craft boots and belts.
+Well, you go to a Shoemakers' workshop and use a tailoring bench of course! But before you go and make even a simple repair of sandals, obviously you need to have procured the right materials.
+; Say thank you for this information.
+}}

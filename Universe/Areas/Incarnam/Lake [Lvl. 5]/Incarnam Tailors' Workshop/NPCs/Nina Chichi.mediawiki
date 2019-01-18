@@ -1,0 +1,22 @@
+{{Npc
+|area=Incarnam
+|loc=Lake
+|coords=[0,-2]
+|details=Outside [[Incarnam Tailors' Workshop]] and [[Incarnam Shoemakers' Workshop]].
+|options=[[{{PAGENAME}}#Talk|Talk]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]].
+<br style="clear:both" />
+
+==Talk==
+{{dialog|text=To be fashionable, you need to follow trends. I prefer to create a buzz, which demands boldness and a good sense of aesthetics - indispensable qualities for any self-respecting tailor.
+; Find out about the Tailor profession.
+If it weren't for me and my fellow professionals, adventurers would look just like scruffy street urchins. We are more than simple artisans; we are artists in the truest sense of the word. We create the sumptuous capes and magnificent hats that any adventurer who cares about his or her appearance wears.
+; Ask how to craft capes and hats.
+You just need to gather the materials and put them together according to the instructions. The machines you need to craft clothing can be found in the Tailors' workshop, in the same building as the Shoemakers' workshop.
+; Thank her for this information.
+}}
+
+==Quests==
+; Features in
+* [[The Reginator's New Clothes]]

@@ -1,0 +1,39 @@
+{{Npc
+|area=Incarnam
+|loc=Way of Souls
+|coords=[-2,-3]
+|details=Outside [[Celestial Temple]]
+|options=[[{{PAGENAME}}#Talk|Talk]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]].
+<br style="clear:both" />
+==Talk==
+{{dialog|text=You seem a little young to be venturing outside the temple. you ought to go back and see Master Joris, he probably has one or two things to teach you.
+; Say that the Temple Master's name is Ganymede, not Joris.
+Oh, right. The kid went back to the World of Twelve... I'll never forget his high-pitched singsongy voice and his habbit of saying hello to each and every new young soul. He was oddly endearing for a curtain twitcher! Who knows, maybe you'll run into him again?
+; Leave.
+}}
+
+<!--==Buy/Sell==
+{|{{prettytable|sortable}}
+! Item !! Price ([[Kama]]s or other currency)
+|-
+| [[]] || x
+|}-->
+
+<!--==[[Exchange]]==
+{|{{prettytable|sortable}}
+! Give !! To get
+|-
+| x [[]] || x [[]]
+|}-->
+
+==Quests==
+; Assigns
+* [[Village in the Clouds]]
+; Features in
+* [[Hope and Tragedy]]
+
+<!--==Other==-->
+<!--; Grants access to:-->
+<!--* [[Dungeon]], in exchange for [[Key]]-->

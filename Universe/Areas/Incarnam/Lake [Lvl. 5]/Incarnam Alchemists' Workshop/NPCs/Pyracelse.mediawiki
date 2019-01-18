@@ -1,0 +1,13 @@
+{{Npc
+ |area=Incarnam
+ |loc=Lake
+ |coords=[-2,-2]
+ |details=Outside [[Incarnam Alchemists' Workshop]]
+ |options=[[{{PAGENAME}}#Talk|Talk]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]]. {{PAGENAME}} is accompanied by [[Nick Flamyell]].
+<br style="clear:both" />
+==Talk==
+{{dialog|text=''gives you a burning look''
+; Take a cautionary step back.
+}}

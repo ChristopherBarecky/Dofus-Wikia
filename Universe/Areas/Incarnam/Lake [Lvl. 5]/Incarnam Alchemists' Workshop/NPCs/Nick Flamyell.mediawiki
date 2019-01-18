@@ -1,0 +1,17 @@
+{{Npc
+ |area=Incarnam
+ |loc=Lake
+ |coords=[-2,-2]
+ |details=Outside [[Incarnam Alchemists' Workshop]]
+ |options=[[{{PAGENAME}}#Talk|Talk]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]]. {{PAGENAME}} is accompanied by [[Pyracelse]].
+<br style="clear:both" />
+==Talk==
+{{dialog|text=Some think alchemists are wealthy because they must have uncovered the secret to turning lead into gold. That's a classic misconception. The wealth we have is spiritual wealth. We collect plants, not kamas.
+; Find out about the Alchemist profession.
+We are herbalists first and foremost. After collecting the plants we need, we concoct potions with various effects. Health potions, teleportation potions, dungeon guardian essences, various elixirs... the list goes on. You need a good memory to remember all those recipes!
+; Ask how to brew a potion.
+A distillery is need for all alchemical distillations. There's at least one in every workshop. But most of the work involved is collecting ingredients. Not just plants and sometimes you need to go far and wide to find what you're looking for.
+; Say thank you for this information.
+}}

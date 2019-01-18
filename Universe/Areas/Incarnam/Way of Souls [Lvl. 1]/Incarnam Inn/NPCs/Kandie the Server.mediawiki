@@ -1,0 +1,31 @@
+{{Npc
+ |area=Incarnam
+ |loc=Incarnam Inn
+ |coords=[0,-3]
+ |details=Inside [[Incarnam Inn]]
+ |image=png
+ |options=[[{{PAGENAME}}#Talk|Talk]], [[{{PAGENAME}}#Buy|Buy]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]]. Formerly known as ''Fattumy's Waitress''.
+<br style="clear:both" />
+==Talk==
+{{dialog|text=Adventurers often stop by inns to get their heads straight and knock back a few drinks.
+; Order a refreshment.
+What can I get you? We have lemonade or Mimilk.
+; Order a lemonade for 1 kama.
+; Order some Mimilk for 4 kamas.
+}}
+{{dialog|text=Adventurers often stop by inns to get their heads straight and knock back a few drinks.
+; Ask where you can find drinking water.
+Well, you can go to a well and bring up some water, or just hunt down Gloots. But if you're very thirsty, I can heartily recommend the owner's lemonade...
+; Order a lemonade for 1 kamas.
+}}
+
+==Buy==
+{|{{prettytable|sortable}}
+! Item !! Price
+|-
+| [[Incarnam Lemonade]] || 1 [[Kama]]
+|-
+| [[Mimilk]] || 4 [[Kama]]s
+|}

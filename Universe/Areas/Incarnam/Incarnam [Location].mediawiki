@@ -1,0 +1,52 @@
+{{area|superarea=Incarnam}}
+
+=={{PAGENAME}}==
+{{PAGENAME}} is the map you start on. The name likely comes from the Latin 'Incarnare', meaning 'to incarnate'; {{PAGENAME}} being the area where characters are created.
+
+==Access==
+* Starting point when creating a [[character]]
+* Entrance: From any [[Class Statue]]
+<!--* [[Zaap]]: [,]-->
+<!--* [[Imp Carrier]]: [,]-->
+<!--* [[Boat]] traveling between [[]] at [,] & [[]] at [,]-->
+<!--* [[NPC]]: Upon [accepting|starting|completing] [[]] at [,]-->
+<!--* Adjacent [[Area]]s or [[Subarea]]s.-->
+<!--Place comment brackets around any lists that do not apply so in the future it can be added.-->
+==[[Subarea]]s==
+{{subarealist}}
+
+==[[Dungeon]]s==
+{{dungeonlist}}
+
+==[[Quest]]s==
+<div class="mw-collapsible mw-collapsed" data-expandtext="show" style="width:100%" data-collapsetext="hide">Complete list of required quest items.
+<div class="mw-collapsible-content">
+* 40 [[Iron]]
+* 23 [[Ash Wood]]
+* 19 [[Nettles]]
+* 18 [[Eternal Ashes]]
+* 14 [[Wheat]] (or 22 to make the 2 [[Incarnam Bread]] yourself)
+* 11 [[Internal Fire]]
+* 9 [[Gobball Slobber]]
+* 9 [[Magical Cure]]
+* 5 [[Celestial Wool]]
+* 3 [[Chimeric Feather]]
+* 3 [[Incarnam Relic]]
+* 3 [[Aminita Powder]]
+* 3 [[Spiritabby Tail]]
+* 2 [[Incarnam Bread]]
+* 2 [[Tofu Egg]]
+* 1 [[Intangible Meat]]
+* 1 [[Gudgeon]]
+* 1 [[Incarnam Lemonade]]
+* 1 [[Mimilk]]
+</div>
+</div>
+
+{{questlist}}
+
+==[[Monster]]s==
+{{monsterlist}}
+
+==[[NPC]]s==
+{{npclist}}

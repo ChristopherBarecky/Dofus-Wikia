@@ -33,22 +33,22 @@ You need some Wheat, Ash, Iron, Nettles, and a freshly caught Gudgeon. You'll fi
 }}
 {{queststep|Harvest some [[Wheat]]}}
 {{queststep|Harvest some [[Nettle]]}}
-{{queststep|Cut some [[Ash]]}}
+{{queststep|Cut some [[Ash Wood|Ash]]}}
 {{queststep|Extract some [[Iron]]}}
 {{queststep|Fish for [[Gudgeon]]}}
 {{queststep|Craft 1 Courageous Ring and close the interface}}
-:* You must click the Workshop to craft the [[Courageous Ring]].
+:* You must click the workshop to craft the [[Courageous Ring]].
 :* You will receive 1 [[Courageous Ring]].
 {{queststep|Talk to Master Attwerk}}
-{{dialog|text = Good work, [Character Name]! Show the ring to Ganymede; he's waiting for you outside this room.
+{{dialog|text=Good work, [Character Name]! Show the ring to Ganymede; he's waiting for you outside this room.
 ; Head towards the exit.
 }}
 {{queststep|Talk to Ganymede again}}
-{{dialog|text = You're very talented, [Character Name]! The ring you've made is perfect. Now you're equipped from head to toe. To test your effectiveness, a training session is a must!
+{{dialog|text=You're very talented, [Character Name]! The ring you've made is perfect. Now you're equipped from head to toe. To test your effectiveness, a training session is a must!
 ; Say you have nothing against a bit of exercise.
 }}
 :* You will start the quest, [[The Watchful Eyes of the Gods]].
-{{dialog|text = I've notified [[Master Tarms]], he's waiting for you in the [[Combat Room]]. Climb the stairs and show the gods what you can do!
+{{dialog|text=I've notified [[Master Tarms]], he's waiting for you in the [[Combat Room]]. Climb the stairs and show the gods what you can do!
 ; Head over to the arch of the Combat Room.
 }}
 

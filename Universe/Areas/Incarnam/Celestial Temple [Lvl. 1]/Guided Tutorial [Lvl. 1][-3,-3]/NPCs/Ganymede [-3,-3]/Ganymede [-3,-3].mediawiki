@@ -12,6 +12,20 @@
 ; Ask to leave the temple.
 }}
 
+<!--==Buy/Sell==
+{|{{prettytable|sortable}}
+! Item !! Price ([[Kama]]s or other currency)
+|-
+| [[]] || x
+|}-->
+
+<!--==[[Exchange]]==
+{|{{prettytable|sortable}}
+! Give !! To get
+|-
+| x [[]] || x [[]]
+|}-->
+
 ==Quests==
 ; Assigns
 * [[Start As You Mean to Go On]]
@@ -19,3 +33,9 @@
 * [[The Ring of Living Dangerously]]
 * [[The Watchful Eyes of the Gods]]
 * [[All the Answers]]
+<!--; Features in
+* [[]]-->
+
+<!--==Other==-->
+<!--; Grants access to:-->
+<!--* [[Dungeon]], in exchange for [[Key]]-->

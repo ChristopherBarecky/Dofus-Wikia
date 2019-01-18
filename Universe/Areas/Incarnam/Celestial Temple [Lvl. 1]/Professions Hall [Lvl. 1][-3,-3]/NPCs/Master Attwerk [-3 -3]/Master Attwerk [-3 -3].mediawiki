@@ -12,6 +12,26 @@
 ; Head towards the exit.
 }}
 
+<!--==Buy/Sell==
+{|{{prettytable|sortable}}
+! Item !! Price ([[Kama]]s or other currency)
+|-
+| [[]] || x
+|}-->
+
+<!--==[[Exchange]]==
+{|{{prettytable|sortable}}
+! Give !! To get
+|-
+| x [[]] || x [[]]
+|}-->
+
 ==Quests==
+<!--; Assigns
+* [[]]-->
 ; Features in
 * [[The Ring of Living Dangerously]]
+
+<!--==Other==-->
+<!--; Grants access to:-->
+<!--* [[Dungeon]], in exchange for [[Key]]-->

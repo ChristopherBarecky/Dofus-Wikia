@@ -12,9 +12,20 @@
 ==Obtaining==
 Talk to [[Ganymede]] at [-3,-3], in [[Celestial Temple]].
 {{queststep|Talk to Ganymede again}}
+<!--:* Clarification text, if needed, such as:-->
+<!--:* Click on x at [,].-->
+<!--:* You will enter a fight against x Level xx [[Monster]].-->
+<!--:* Other characters can/cannot join the fight.-->
+<!--:* You will drop x [[Item]].-->
+<!--:* You will receive x [[Item]].-->
+<!--:* You will lose x [[Item]].-->
+<!--:* You must complete or have completed the quest [[Quest]] to be able to talk to it.-->
+<!--:* You will receive x XP.-->
+<!--:* You will be transported to [[]].-->
+<!--:* You will lose access to [[]].-->
 {{dialog|text = You are very talented, [Character Name]! The ring you've made is perfect. Now you're equipped from head to toe. To test your effectiveness, a training session is a must!
 ; Say you have nothing against a bit of exercise.
-I've notified [[Master Tarms]], he's waiting for you in the [[Combat Room]]. Climb the stairs and show the gods what you can do!
+I've notified Master Tarms, he's waiting for you in the Combat Room. Climb the stairs and show the gods what you can do!
 ; Head over to the arch of the Combat Room.
 }}
 
@@ -40,8 +51,9 @@ During your future adventures, you will often have to face several enemies at on
 }}
 {{queststep|Talk to Ganymede again}}
 {{dialog|text=I understand you handled yourself very well. Well done, [Character Name]! I never doubted you, of course.<br> Before you leave the temple to explore Incarnam, we must talk about the quest for the Dofus. Come with me downstairs, I will take you to the Destiny Room.
-; Go down the stairs.}}
-:* You will be automatically moved to the [[Destiny Room]].
+; Go down the stairs.
+}}
+:* You will be automatically transported to the [[Destiny Room]].
 
 ==Rewards==
 * 141 [[XP]]

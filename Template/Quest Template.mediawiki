@@ -19,17 +19,20 @@ NPCs response to selected option.
 ==Step 1: Title from Quest Book==
 ; Text from top of Quest Book.
 {{queststep|Text from Quest Book step}}
-: Clarification text, if needed, such as:
-: Click on x at [,].
-: You will enter a fight against x Level xx [[Monster]].
-: Other characters can/cannot join the fight.
-: You will drop x [[Item]].
-: You will receive x [[Item]].
-: You will lose x [[Item]].
-: You must complete or have completed the quest [[Quest]] to be able to talk to it.
+<!--:* Clarification text, if needed, such as:-->
+<!--:* Click on x at [,].-->
+<!--:* You will enter a fight against x Level xx [[Monster]].-->
+<!--:* Other characters can/cannot join the fight.-->
+<!--:* You will drop x [[Item]].-->
+<!--:* You will receive x [[Item]].-->
+<!--:* You will lose x [[Item]].-->
+<!--:* You must complete or have completed the quest [[Quest]] to be able to talk to it.-->
+<!--:* You will receive x XP.-->
+<!--:* You will be transported to [[]].-->
+<!--:* You will lose access to [[]].-->
 
 ==Rewards==
 * 
 
-==Related [[Achievement]]s==
-* 
+<!--==Related [[Achievement]]s==
+* -->

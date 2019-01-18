@@ -1,0 +1,21 @@
+{{Npc
+ |area=Incarnam
+ |loc=Lake
+ |coords=[-1,-2]
+ |details=Outside [[Incarnam Hunters' Workshop]]
+ |options=[[{{PAGENAME}}#Talk|Talk]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]].
+<br style="clear:both" />
+==Talk==
+{{dialog|text=I eat nice bloody beefsteak every morning. That puts me in a good mood for the whole day! ''grins so wide you can see 'his' meaty breakfast between his teeth.''
+; Find out about the profession.
+I hunt wild animals to feed the people. I'm skilled at turning Tofus into fritters and I can roast a leg of Gobball to perfection. Meat has to be cooked properly before you eat it, otherwise it's bad for the digestion.
+; Find out more about the hunt.
+You have to use the right weapon to avoid damaging the flesh. If the animal isn't killed properly, the hunter won't be able to harvest the good bits for cooking.
+; Ask how you can find one of these weapons.
+There's nothing better than a good hunting knife you've crafted yourself. When I need a new blade, I use the anvil in the Smiths' Workshop to make it.
+; Ask how to cook meat.
+You just need to gather the ingredients and combine them by following recipes. The workbenches needed to make tasty dishes can be found in the workshop.
+; Thank her for this information.
+}}

@@ -1,0 +1,105 @@
+{{questbox
+|starting=Talk to [[Lykhen Zisurvivor]] at [-2,-3]
+|level=3
+|prerequisites=None
+|recommended=3
+|rewards=Level-Based [[XP]], 14 [[Kama|Kamas]], 5 [[Eternal Ashes]]
+|items=None
+|sequel=[[Hope and Tragedy]]
+|repeatable=No
+}}
+<br style="clear:both" />
+==Obtaining==
+Talk to [[Lykhen Zisurvivor]] at [-2,-3] in [[Incarnam]].
+{{dialog|text=You seem a little young to be venturing outside the temple. you ought to go back and see Master Joris, he probably has one or two things to teach you.
+; Reply that you prefer to find out for yourself.
+Well, it's up to you. But I recommend looking round the village, I'm sure Ternette would love to meet you.
+; Ask who Ternette is.
+She's an important member of clan Nhin, the most famous family in Incarnam. Ternette is also the village mayor. She makes a point of meeting any visitors round here. You should pay her a visit, I'm sure she'll help you explore the celestial island.
+; Ask where to find Ternette.
+She's just over there. I've put a marker on your quest notebook in case you lack a sense of direction.
+; Say thank you and look for Ternette Nhin.
+}}
+
+==Step 1: {{PAGENAME}}==
+; The inhabitants of Incarnam are there to help new adventurers. Don't hesitate to say hi! To help you find your way, use the objective localisation system to mark a waypoint on the mini-map.
+{{queststep|Talk to [[Ternette Nhin]]}}
+<!--:* Clarification text, if needed, such as:-->
+<!--:* Click on x at [,].-->
+<!--:* You will enter a fight against x Level xx [[Monster]].-->
+<!--:* Other characters can/cannot join the fight.-->
+<!--:* You will drop x [[Item]].-->
+<!--:* You will receive x [[Item]].-->
+<!--:* You will lose x [[Item]].-->
+<!--:* You must complete or have completed the quest [[Quest]] to be able to talk to it.-->
+<!--:* You will receive x XP.-->
+<!--:* You will be transported to [[]].-->
+<!--:* You will lose access to [[]].-->
+:* Go to [-1,-3], where the [[Incarnam Zaap (Way of Souls)]] is located.
+{{dialog|text=Isn't it a lovely day? The sun is shining, the Piwis are chirping, and young souls are discovering Incarnam.
+; Introduce yourself in turn.
+Welcome, [Character Name]. I am Ternette, mayor of the village. If you need anything, we have fully equipped workshops, a friendly inn, a marketplace, and a library. And you have nothing to fear as the Kerub Militia keep the peace around here. Life is good here, the celestial island is a wonderful place.
+; Thank her for her hospitality.
+How about meeting some of the community's most prominent members? They would be delighted to speak with you. Come Back and see me once you've met them and we'll talk about your future.
+; Follow her suggestion and look round the village.
+}}
+{{queststep|Talk to [[Frank B. Nhin]]}} [0,-3], outside of the [[Incarnam Inn]]
+{{dialog|text=Nothing better than a cold lemonade for taking the edge of after a hard day's work! Sluuurp.
+; Introduce yourself in turn.
+Ternette sent you, did she? My dear cousin likes for adventurers to feel at home here. And she has good reason to, it would be a shame not to make use of some free labour, ha ha!
+; Find out more about him.
+I am the son and heir of Cripeled Nhin, the oldest artisan on the celestial island. Since my father retired, I've been coordinating the work done by the crafting guilds. I check that product quality is always flawless--the Nhins have a reputation to uphold! I also have the honour of being president of the committee tasked with awarding the esteemed title of Fellow of Incarnam.
+; Say it was a pleasure meeting him.
+}}
+{{queststep|Talk to [[Fattumy]]}} [0,-3], inside the Incarnam Inn}}
+{{dialog|text=Welcome, adventurer! If you're looking to wet your whistle, your in the right place
+; Introduce yourself in turn.
+Let me guess, you are a hero and seek the Dofus, am I right? Well, sorry to disappoint you but there are no dragon eggs hiding in my establishment. And for that I am happy. Such treasures would attract all kinds of greedy types. The Kerubs would have to patrol day and night to discourage thieves and I don't want this tavern turning into a fortress! That would be bad for business.
+; Find out more about him.
+I was once in the Celestial Militia. I have fond memories of it, but I don't miss the guard duty or the spud-peeling. I'm the boss here, and that suits me just fine.
+; Bid him farewell and leave.
+}}
+{{queststep|Talk to [[Kerub Captain]]}} [0,-4]
+{{dialog|text=Attention! *salutes*<br>At ease. What can I do for you, adventurer?
+; Introduce yourself in turn.
+It's a pleasure, [Character Name]. I am the captain of the Kerub militia. The valiant soldiers responsible for the security of Inacarnam's citizens are under my command.
+; Find out more about the militia.
+The celestial lands have not always been a haven of peace. We have fought against the Shushus, the Snoowolf and the Three Eds bandits. We have pushed back the choleric Cracklers and the cave Arachnees. We try to contain the chafers to the cemetery. We control the population of lost souls. Basically, we work hard to keep the peace on the island.
+; Bid him farewell and leave.
+}}
+{{queststep|Talk to [[Holly Brock]]}} [1,-3]
+{{dialog|text=Offering quality items at the right price, that's the secret of an honest trader.
+; Introduce yourself in turn.
+Ah, a future customer! Sooner or later, all adventurers want to use the services of an artisan to procure their equipment, or hone their own skills in the various professions. Either way, they quickly realise that top quality materials are essential for the best gear.
+; Ask how to get hold of these materials.
+Well, you can go out and harvest them yourself or go hunting wild animals to find them. But for those whose time is too precious, there's always the markets. If I were you, I wouldn't be afraid to go to a Resource Merchant if you need to
+; Say goodbye and leave.
+}}
+{{queststep|Talk to [[Ternette Nhin]] again}} [-1,-3]
+{{dialog|text=Isn't it a lovely day? The sun is shining, the Piwis are chirping and young souls are discovering Incarnam.
+; Announce that you've met several inhabitants of the village.
+A friendly lot aren't they? If you're interested in professions, you'll also need to speak with the many master artisans here at their respective workshops. But that's probably not your primary concern. You seek the Dofus, right?
+; Say yes.
+There is one person you have to meet. Her name is Fecaline. She can teach you a lot about the history of dragons and their magical eggs. You'll find her at the library.
+; Thank her, then head off to the library.
+}}
+{{queststep|Talk to [[Fecaline the Wise]]}} [2,-3]
+{{dialog|text=Knowledge of the past is a precious guide for those who walk the uncertain paths of the future...but history is not just a trove of information; it shapes our present.
+; Introduce yourself in turn.
+Hello, [Character Name]. Let me guess: you hope to seek out the Dofus and you want to learn more about them?
+; Say that she guessed correctly.
+I don't deserve special praise. Many adventurers have already passed by here and there will be many more. But there's something different about you...Maybe you'll be the one to finally reunite the 6 Dofus. I am no Norrai, I have no idea what the future holds for you.<br> What do you know about the Primordial Dofus?
+; Provide the names of the 6 magic eggs and the dragons that laid them.
+''starts to smile'' I see that Ganymede has already taught you some basics. The history of the Dofus is a colourful and remarkable one. The protectors of harmony in the World of Twelve were reunited and safeguarded before being stolen, then found again and separated once more.
+; Admit a certain ignorance.
+I have recounted his story in one of the library's books. I strongly recommend reading it.
+; Search among the various books.
+}}
+
+==Rewards==
+* Level-Based [[XP]]
+* 14 [[Kama]]s
+* 5 [[Eternal Ashes]]
+
+==Related [[Achievement]]s==
+* [[Adventure Time]]

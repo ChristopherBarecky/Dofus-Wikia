@@ -3,7 +3,7 @@
  |loc=
  |coords=[,]
  |details=
- |options=[[{{PAGENAME}}#Talk|Talk]], [[{{PAGENAME}}#Buy/Sell|Buy/Sell]], [[{{PAGENAME}}#Exchange|Exchange]]
+ |options=[[{{PAGENAME}}#Talk|Talk]]<!--, [[{{PAGENAME}}#Buy/Sell|Buy/Sell]]-->, <!--[[{{PAGENAME}}#Exchange|Exchange]]-->
 }}
 '''{{PAGENAME}}''' is an [[NPC]].
 <br style="clear:both" />
@@ -13,26 +13,26 @@
 NPCs response to selected option.
 }}
 
-==Buy/Sell==
+<!--==Buy/Sell==
 {|{{prettytable|sortable}}
 ! Item !! Price ([[Kama]]s or other currency)
 |-
 | [[]] || x
-|}
+|}-->
 
-==[[Exchange]]==
+<!--==[[Exchange]]==
 {|{{prettytable|sortable}}
 ! Give !! To get
 |-
 | x [[]] || x [[]]
-|}
+|}-->
 
-==Quests==
-; Assigns
-* [[]]
-; Features in
-* [[]]
+<!--==Quests==-->
+<!--; Assigns
+* [[]]-->
+<!--; Features in
+* [[]]-->
 
-==Other==
-; Grants access to
-* [[Dungeon]], in exchange for [[Key]]
+<!--==Other==-->
+<!--; Grants access to:-->
+<!--* [[Dungeon]], in exchange for [[Key]]-->

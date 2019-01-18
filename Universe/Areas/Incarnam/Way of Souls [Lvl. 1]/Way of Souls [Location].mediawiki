@@ -1,0 +1,94 @@
+{{area|superarea=Incarnam|parent=Incarnam}}
+<!--A subarea will always have a parent. When dealing with the special separate areas such as Incarnam or Divine Temples you must fill them in as the superarea to appear properly. For example - Incarnam Inn: {{area||superarea=Incarnam|parent=Way of Souls}}-->
+
+=={{PAGENAME}}==
+{{PAGENAME}} is a subarea of [[Incarnam]].
+
+==Alliance==
+<!--(if the subarea is an alliance territory)-->
+<!--{{PAGENAME}} is an [[Alliance]] territory (needs an [[Alliance Prism]]).-->
+
+<!--(if the subarea is not an alliance territory)-->
+{{PAGENAME}} is not an [[Alliance]] territory.
+
+==Access==
+* Entrance:
+* [[Incarnam Zaap (Way of Souls)]]: [-1,-3]
+* [[Celestial Temple]]: [-3,-3]
+* [[Fields]]
+* [[Pastures]]
+* [[Lake]]
+* [[Forest]]
+
+<!-- Place comment brackets around any lists that do not apply so in the future it can be added.-->
+==[[Subarea]]s==
+{{subarealist}}
+
+<!--==[[Dungeon]]s==
+{{dungeonlist}}-->
+
+==[[Quest]]s==
+{{questlist}}
+
+==[[Monster]]s==
+{{monsterlist}}
+
+==[[NPC]]s==
+{{npclistsub}}
+
+<!--==Special Places==-->
+<!--; Markets-->
+<!--* [[Alchemist]]: [,]-->
+<!--* [[Artificer]]: [,]-->
+<!--* [[Carver]]: [,]-->
+<!--* [[Fairywork]]s: [,]-->
+<!--* [[Farmer]]: [,]-->
+<!--* [[Fisherman]]: [,]-->
+<!--* [[Handyman]]: [,]-->
+<!--* [[Hunter]]: [,]-->
+<!--* [[Jeweller]]: [,]-->
+<!--* [[Krosmaster]]: [,]-->
+<!--* [[Lumberjack]]: [,]-->
+<!--* [[Miner]]: [,]-->
+<!--* [[Pet]]: [,]-->
+<!--* [[Resource]]: [,]-->
+<!--* [[Rune]]: [,]-->
+<!--* [[Scroll]]: [,]-->
+<!--* [[Shoemaker]]: [,]-->
+<!--* [[Smith]]: [,]-->
+<!--* [[Soul Stone]]: [,]-->
+<!--* [[Tailor]]: [,]-->
+<!--* [[Tied Scroll]]: [,]-->
+<!--; Workshops-->
+<!--* [[Alchemist]]: [,]-->
+<!--* [[Artificer]]: [,]-->
+<!--* [[Carver]]: [,]-->
+<!--* [[Farmer]]: [,]-->
+<!--* [[Fisherman]]: [,]-->
+<!--* [[Handyman]]: [,]-->
+<!--* [[Hunter]]: [,]-->
+<!--* [[Jeweller]]: [,]-->
+<!--* [[Lumberjack]]: [,]-->
+<!--* [[Miner]]: [,]-->
+<!--* [[Shoemaker]]: [,]-->
+<!--* [[Smith]]: [,]-->
+<!--* [[Tailor]]: [,]-->
+<!--; Gathering Spots-->
+* [[Alchemist]]:
+:* [[Nettles]]: (1) [0,-3], (1) [1,-3], (1) [2,-3], (2) [3,-3]
+* [[Farmer]]:
+:* [[Wheat]]: (1) [-2,-3], (5) [-1,-3], 
+<!--* [[Fisherman]]:
+:* [[Resource]]: [,]-->
+<!--* [[Hunter]]:
+:* [[Resource]]: [,]-->
+<!--* [[Lumberjack]]:
+:* [[Resource]]: [,]-->
+<!--* [[Miner]]:
+:* [[Resource]]: [,]-->
+
+<!--===[[Emotes]]===
+* [[]]: [,]-->
+
+<!--===Miscellaneous===-->
+<!--* [[Well]]: [,]-->

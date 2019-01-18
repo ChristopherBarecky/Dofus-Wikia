@@ -1,0 +1,19 @@
+{{Npc
+ |area=Incarnam
+ |loc=Lake
+ |coords=[-2,-2]
+ |details=Outside [[Incarnam Fishermen's Workshop]]
+ |options=[[{{PAGENAME}}#Talk|Talk]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]].
+<br style="clear:both" />
+==Talk==
+{{dialog|text=''Sniff... sniff'' Smell that fresh Gudgeon? Doesn't it make your mouth water!
+; Find out about the profession.
+I fish every day and come back with a full basket of fish. In the evening, I cook them so they're still good to eat. I know all the recipes: Sliced Gudgeon, Steamed Carp, Stuffed Pike...! I sometimes also cook sea fish. There's nothing better than a good Cod Stew or Panned Quixote Swordfish.
+; Ask how to fish.
+You just need to know the best places and be patient. Once you spot little ripples on the water surface that show where the fish are, cast your line. If you're lucky, you might catch a rare fish, like Kiye Gudgeon! Some superstitious souls think there are certain times when it's best to fish, but that's just a myth.
+; Learn about cooking methods.
+You'll find everything you need to prepare fish in Fishermans' workshops. But before you bother with the workbench, make sure you have all the ingredients you need.
+; Thank her for this information.
+}}

@@ -3,13 +3,85 @@
 =={{PAGENAME}}==
 {{PAGENAME}} is a subarea of [[Celestial Temple]].
 
+==Alliance==
+<!--(if the subarea is an alliance territory)-->
+<!--{{PAGENAME}} is an [[Alliance]] territory (needs an [[Alliance Prism]]).-->
+
+<!--(if the subarea is not an alliance territory)-->
+{{PAGENAME}} is not an [[Alliance]] territory.
+
 ==Access==
-* Entrance: 
-* [[Way of Souls]]: [-2,-3]
+* Entrance:
+<!--* [[Zaap]]: [,]-->
+<!--* [[Imp Carrier]]: [,]-->
+<!--* [[Boat]] traveling between [[]] at [,] & [[]] at [,]-->
 * [[Ganymede]]: Upon completing [[The Watchful Eyes of the Gods]] at [-3,-3]
+* [[Way of Souls]]: [-2,-3]
+<!-- Place comment brackets around any lists that do not apply so in the future it can be added.-->
+<!--==[[Subarea]]s==
+{{subarealist}}-->
+
+<!--==[[Dungeon]]s==
+{{dungeonlist}}-->
 
 ==[[Quest]]s==
 {{questlist}}
 
+<!--==[[Monster]]s==
+{{monsterlist}}-->
+
 ==[[NPC]]s==
 {{npclist}}
+
+<!--==Special Places==-->
+<!--; Markets-->
+<!--* Alchemist: [,]-->
+<!--* Artificer: [,]-->
+<!--* Carver: [,]-->
+<!--* Fairyworks: [,]-->
+<!--* Farmer: [,]-->
+<!--* Fisherman: [,]-->
+<!--* Handyman: [,]-->
+<!--* Hunter: [,]-->
+<!--* Jeweller: [,]-->
+<!--* Krosmaster: [,]-->
+<!--* Lumberjack: [,]-->
+<!--* Miner: [,]-->
+<!--* Pet: [,]-->
+<!--* [[Resource]]: [,]-->
+<!--* Rune: [,]-->
+<!--* Scroll: [,]-->
+<!--* Shoemaker: [,]-->
+<!--* Smith: [,]-->
+<!--* Soul Stone: [,]-->
+<!--* Tailor: [,]-->
+<!--* Tied Scroll: [,]-->
+
+<!--; Workshops-->
+<!--* [[Alchemist]]: [,]-->
+<!--* [[Artificer]]: [,]-->
+<!--* [[Carver]]: [,]-->
+<!--* [[Farmer]]: [,]-->
+<!--* [[Fisherman]]: [,]-->
+<!--* [[Handyman]]: [,]-->
+<!--* [[Hunter]]: [,]-->
+<!--* [[Jeweller]]: [,]-->
+<!--* [[Lumberjack]]: [,]-->
+<!--* [[Miner]]: [,]-->
+<!--* [[Shoemaker]]: [,]-->
+<!--* [[Smith]]: [,]-->
+<!--* [[Tailor]]: [,]-->
+
+<!--; Gathering Spots-->
+<!--* [[Alchemist]]: [[]], [[]]-->
+<!--* [[Farmer]]: [[]], [[]]-->
+<!--* [[Fisherman]]: [[]], [[]]-->
+<!--* [[Hunter]]: [[]], [[]]-->
+<!--* [[Lumberjack]]: [[]], [[]]-->
+<!--* [[Miner]]: [[]], [[]]-->
+
+<!--===[[Emotes]]===
+* [[]]: [,]-->
+
+<!--===Miscellaneous===-->
+<!--* [[Well]]: [,]-->

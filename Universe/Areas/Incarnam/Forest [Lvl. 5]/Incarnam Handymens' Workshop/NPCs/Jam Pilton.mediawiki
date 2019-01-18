@@ -1,0 +1,18 @@
+{{Npc
+ |area=Incarnam
+ |loc=Forest
+ |coords=[1,-2]
+ |details=Outside [[Incarnam Handymens' Workshop]]
+ |options=[[{{PAGENAME}}#Talk|Talk]]
+}}
+'''{{PAGENAME}}''' is an [[NPC]].
+<br style="clear:both" />
+
+==Talk==
+{{dialog|text=I thought I heard a grinding noise coming from the crane. I must put a spot of oil on it and tighten some nuts.
+; Find out about the Handyman profession.
+We build machines for breeders so they don't have to constantly watch over their mounts. But we are best known for crafting dungeon keys. Thanks to our expertise, adventurers can explore the most perilous areas of the World of Twelve.
+; Ask how to craft these items.
+The hardest part is finding the various pieces you need. Once that's done, the rest is quite simple: you find Handymans' workbench, follow the instructions and it all slots into place!
+; Thank her for this information.
+}}
